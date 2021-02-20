@@ -9328,31 +9328,31 @@ fieldset:disabled .btn {
 }
 
 .fs-2 {
-  font-size: calc(1.269rem + 0.228vw) !important;
+  font-size: 1.44rem !important;
 }
 
 .fs-3 {
-  font-size: calc(1.2978rem + 0.5736vw) !important;
+  font-size: 1.728rem !important;
 }
 
 .fs-4 {
-  font-size: calc(1.33236rem + 0.98832vw) !important;
+  font-size: 2.0736rem !important;
 }
 
 .fs-5 {
-  font-size: calc(1.37383rem + 1.48598vw) !important;
+  font-size: 2.48832rem !important;
 }
 
 .fs-6 {
-  font-size: calc(1.4236rem + 2.08318vw) !important;
+  font-size: 2.98598rem !important;
 }
 
 .fs-7 {
-  font-size: calc(1.48332rem + 2.79982vw) !important;
+  font-size: 3.58318rem !important;
 }
 
 .fs-8 {
-  font-size: calc(1.55498rem + 3.65978vw) !important;
+  font-size: 4.29982rem !important;
 }
 
 .fst-italic {
@@ -9704,63 +9704,63 @@ fieldset:disabled .btn {
 }
 
 .rounded-top {
-  border-top-left-radius: 0.25rem !important;
-  border-top-right-radius: 0.25rem !important;
+  border-top-start-radius: 0.25rem !important;
+  border-top-end-radius: 0.25rem !important;
 }
 
 .rounded-top-lg {
-  border-top-left-radius: 1.25rem !important;
-  border-top-right-radius: 1.25rem !important;
+  border-top-start-radius: 1.25rem !important;
+  border-top-end-radius: 1.25rem !important;
 }
 
 .rounded-top-0 {
-  border-top-left-radius: 0 !important;
-  border-top-right-radius: 0 !important;
+  border-top-start-radius: 0 !important;
+  border-top-end-radius: 0 !important;
 }
 
 .rounded-end {
-  border-top-right-radius: 0.25rem !important;
-  border-bottom-right-radius: 0.25rem !important;
+  border-top-end-radius: 0.25rem !important;
+  border-bottom-end-radius: 0.25rem !important;
 }
 
 .rounded-end-lg {
-  border-top-right-radius: 1.25rem !important;
-  border-bottom-right-radius: 1.25rem !important;
+  border-top-end-radius: 1.25rem !important;
+  border-bottom-end-radius: 1.25rem !important;
 }
 
 .rounded-end-0 {
-  border-top-right-radius: 0 !important;
-  border-bottom-right-radius: 0 !important;
+  border-top-end-radius: 0 !important;
+  border-bottom-end-radius: 0 !important;
 }
 
 .rounded-bottom {
-  border-bottom-right-radius: 0.25rem !important;
-  border-bottom-left-radius: 0.25rem !important;
+  border-bottom-end-radius: 0.25rem !important;
+  border-bottom-start-radius: 0.25rem !important;
 }
 
 .rounded-bottom-lg {
-  border-bottom-right-radius: 1.25rem !important;
-  border-bottom-left-radius: 1.25rem !important;
+  border-bottom-end-radius: 1.25rem !important;
+  border-bottom-start-radius: 1.25rem !important;
 }
 
 .rounded-bottom-0 {
-  border-bottom-right-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
+  border-bottom-end-radius: 0 !important;
+  border-bottom-start-radius: 0 !important;
 }
 
 .rounded-start {
-  border-bottom-left-radius: 0.25rem !important;
-  border-top-left-radius: 0.25rem !important;
+  border-bottom-start-radius: 0.25rem !important;
+  border-top-start-radius: 0.25rem !important;
 }
 
 .rounded-start-lg {
-  border-bottom-left-radius: 1.25rem !important;
-  border-top-left-radius: 1.25rem !important;
+  border-bottom-start-radius: 1.25rem !important;
+  border-top-start-radius: 1.25rem !important;
 }
 
 .rounded-start-0 {
-  border-bottom-left-radius: 0 !important;
-  border-top-left-radius: 0 !important;
+  border-bottom-start-radius: 0 !important;
+  border-top-start-radius: 0 !important;
 }
 
 .visible {
@@ -11222,25 +11222,25 @@ fieldset:disabled .btn {
     font-size: 1.2rem !important;
   }
   .fs-sm-2 {
-    font-size: calc(1.269rem + 0.228vw) !important;
+    font-size: 1.44rem !important;
   }
   .fs-sm-3 {
-    font-size: calc(1.2978rem + 0.5736vw) !important;
+    font-size: 1.728rem !important;
   }
   .fs-sm-4 {
-    font-size: calc(1.33236rem + 0.98832vw) !important;
+    font-size: 2.0736rem !important;
   }
   .fs-sm-5 {
-    font-size: calc(1.37383rem + 1.48598vw) !important;
+    font-size: 2.48832rem !important;
   }
   .fs-sm-6 {
-    font-size: calc(1.4236rem + 2.08318vw) !important;
+    font-size: 2.98598rem !important;
   }
   .fs-sm-7 {
-    font-size: calc(1.48332rem + 2.79982vw) !important;
+    font-size: 3.58318rem !important;
   }
   .fs-sm-8 {
-    font-size: calc(1.55498rem + 3.65978vw) !important;
+    font-size: 4.29982rem !important;
   }
   .text-sm-start {
     text-align: left !important;
@@ -11252,52 +11252,52 @@ fieldset:disabled .btn {
     text-align: center !important;
   }
   .rounded-sm-top {
-    border-top-left-radius: 0.25rem !important;
-    border-top-right-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
   }
   .rounded-sm-top-lg {
-    border-top-left-radius: 1.25rem !important;
-    border-top-right-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
   }
   .rounded-sm-top-0 {
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
+    border-top-start-radius: 0 !important;
+    border-top-end-radius: 0 !important;
   }
   .rounded-sm-end {
-    border-top-right-radius: 0.25rem !important;
-    border-bottom-right-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
   }
   .rounded-sm-end-lg {
-    border-top-right-radius: 1.25rem !important;
-    border-bottom-right-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
   }
   .rounded-sm-end-0 {
-    border-top-right-radius: 0 !important;
-    border-bottom-right-radius: 0 !important;
+    border-top-end-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
   }
   .rounded-sm-bottom {
-    border-bottom-right-radius: 0.25rem !important;
-    border-bottom-left-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
   }
   .rounded-sm-bottom-lg {
-    border-bottom-right-radius: 1.25rem !important;
-    border-bottom-left-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
   }
   .rounded-sm-bottom-0 {
-    border-bottom-right-radius: 0 !important;
-    border-bottom-left-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
   }
   .rounded-sm-start {
-    border-bottom-left-radius: 0.25rem !important;
-    border-top-left-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
   }
   .rounded-sm-start-lg {
-    border-bottom-left-radius: 1.25rem !important;
-    border-top-left-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
   }
   .rounded-sm-start-0 {
-    border-bottom-left-radius: 0 !important;
-    border-top-left-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
+    border-top-start-radius: 0 !important;
   }
   .opacity-sm-0 {
     opacity: 0 !important;
@@ -12679,25 +12679,25 @@ fieldset:disabled .btn {
     font-size: 1.2rem !important;
   }
   .fs-md-2 {
-    font-size: calc(1.269rem + 0.228vw) !important;
+    font-size: 1.44rem !important;
   }
   .fs-md-3 {
-    font-size: calc(1.2978rem + 0.5736vw) !important;
+    font-size: 1.728rem !important;
   }
   .fs-md-4 {
-    font-size: calc(1.33236rem + 0.98832vw) !important;
+    font-size: 2.0736rem !important;
   }
   .fs-md-5 {
-    font-size: calc(1.37383rem + 1.48598vw) !important;
+    font-size: 2.48832rem !important;
   }
   .fs-md-6 {
-    font-size: calc(1.4236rem + 2.08318vw) !important;
+    font-size: 2.98598rem !important;
   }
   .fs-md-7 {
-    font-size: calc(1.48332rem + 2.79982vw) !important;
+    font-size: 3.58318rem !important;
   }
   .fs-md-8 {
-    font-size: calc(1.55498rem + 3.65978vw) !important;
+    font-size: 4.29982rem !important;
   }
   .text-md-start {
     text-align: left !important;
@@ -12709,52 +12709,52 @@ fieldset:disabled .btn {
     text-align: center !important;
   }
   .rounded-md-top {
-    border-top-left-radius: 0.25rem !important;
-    border-top-right-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
   }
   .rounded-md-top-lg {
-    border-top-left-radius: 1.25rem !important;
-    border-top-right-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
   }
   .rounded-md-top-0 {
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
+    border-top-start-radius: 0 !important;
+    border-top-end-radius: 0 !important;
   }
   .rounded-md-end {
-    border-top-right-radius: 0.25rem !important;
-    border-bottom-right-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
   }
   .rounded-md-end-lg {
-    border-top-right-radius: 1.25rem !important;
-    border-bottom-right-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
   }
   .rounded-md-end-0 {
-    border-top-right-radius: 0 !important;
-    border-bottom-right-radius: 0 !important;
+    border-top-end-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
   }
   .rounded-md-bottom {
-    border-bottom-right-radius: 0.25rem !important;
-    border-bottom-left-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
   }
   .rounded-md-bottom-lg {
-    border-bottom-right-radius: 1.25rem !important;
-    border-bottom-left-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
   }
   .rounded-md-bottom-0 {
-    border-bottom-right-radius: 0 !important;
-    border-bottom-left-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
   }
   .rounded-md-start {
-    border-bottom-left-radius: 0.25rem !important;
-    border-top-left-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
   }
   .rounded-md-start-lg {
-    border-bottom-left-radius: 1.25rem !important;
-    border-top-left-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
   }
   .rounded-md-start-0 {
-    border-bottom-left-radius: 0 !important;
-    border-top-left-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
+    border-top-start-radius: 0 !important;
   }
   .opacity-md-0 {
     opacity: 0 !important;
@@ -14136,25 +14136,25 @@ fieldset:disabled .btn {
     font-size: 1.2rem !important;
   }
   .fs-lg-2 {
-    font-size: calc(1.269rem + 0.228vw) !important;
+    font-size: 1.44rem !important;
   }
   .fs-lg-3 {
-    font-size: calc(1.2978rem + 0.5736vw) !important;
+    font-size: 1.728rem !important;
   }
   .fs-lg-4 {
-    font-size: calc(1.33236rem + 0.98832vw) !important;
+    font-size: 2.0736rem !important;
   }
   .fs-lg-5 {
-    font-size: calc(1.37383rem + 1.48598vw) !important;
+    font-size: 2.48832rem !important;
   }
   .fs-lg-6 {
-    font-size: calc(1.4236rem + 2.08318vw) !important;
+    font-size: 2.98598rem !important;
   }
   .fs-lg-7 {
-    font-size: calc(1.48332rem + 2.79982vw) !important;
+    font-size: 3.58318rem !important;
   }
   .fs-lg-8 {
-    font-size: calc(1.55498rem + 3.65978vw) !important;
+    font-size: 4.29982rem !important;
   }
   .text-lg-start {
     text-align: left !important;
@@ -14166,52 +14166,52 @@ fieldset:disabled .btn {
     text-align: center !important;
   }
   .rounded-lg-top {
-    border-top-left-radius: 0.25rem !important;
-    border-top-right-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
   }
   .rounded-lg-top-lg {
-    border-top-left-radius: 1.25rem !important;
-    border-top-right-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
   }
   .rounded-lg-top-0 {
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
+    border-top-start-radius: 0 !important;
+    border-top-end-radius: 0 !important;
   }
   .rounded-lg-end {
-    border-top-right-radius: 0.25rem !important;
-    border-bottom-right-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
   }
   .rounded-lg-end-lg {
-    border-top-right-radius: 1.25rem !important;
-    border-bottom-right-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
   }
   .rounded-lg-end-0 {
-    border-top-right-radius: 0 !important;
-    border-bottom-right-radius: 0 !important;
+    border-top-end-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
   }
   .rounded-lg-bottom {
-    border-bottom-right-radius: 0.25rem !important;
-    border-bottom-left-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
   }
   .rounded-lg-bottom-lg {
-    border-bottom-right-radius: 1.25rem !important;
-    border-bottom-left-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
   }
   .rounded-lg-bottom-0 {
-    border-bottom-right-radius: 0 !important;
-    border-bottom-left-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
   }
   .rounded-lg-start {
-    border-bottom-left-radius: 0.25rem !important;
-    border-top-left-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
   }
   .rounded-lg-start-lg {
-    border-bottom-left-radius: 1.25rem !important;
-    border-top-left-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
   }
   .rounded-lg-start-0 {
-    border-bottom-left-radius: 0 !important;
-    border-top-left-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
+    border-top-start-radius: 0 !important;
   }
   .opacity-lg-0 {
     opacity: 0 !important;
@@ -15593,25 +15593,25 @@ fieldset:disabled .btn {
     font-size: 1.2rem !important;
   }
   .fs-xl-2 {
-    font-size: calc(1.269rem + 0.228vw) !important;
+    font-size: 1.44rem !important;
   }
   .fs-xl-3 {
-    font-size: calc(1.2978rem + 0.5736vw) !important;
+    font-size: 1.728rem !important;
   }
   .fs-xl-4 {
-    font-size: calc(1.33236rem + 0.98832vw) !important;
+    font-size: 2.0736rem !important;
   }
   .fs-xl-5 {
-    font-size: calc(1.37383rem + 1.48598vw) !important;
+    font-size: 2.48832rem !important;
   }
   .fs-xl-6 {
-    font-size: calc(1.4236rem + 2.08318vw) !important;
+    font-size: 2.98598rem !important;
   }
   .fs-xl-7 {
-    font-size: calc(1.48332rem + 2.79982vw) !important;
+    font-size: 3.58318rem !important;
   }
   .fs-xl-8 {
-    font-size: calc(1.55498rem + 3.65978vw) !important;
+    font-size: 4.29982rem !important;
   }
   .text-xl-start {
     text-align: left !important;
@@ -15623,52 +15623,52 @@ fieldset:disabled .btn {
     text-align: center !important;
   }
   .rounded-xl-top {
-    border-top-left-radius: 0.25rem !important;
-    border-top-right-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
   }
   .rounded-xl-top-lg {
-    border-top-left-radius: 1.25rem !important;
-    border-top-right-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
   }
   .rounded-xl-top-0 {
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
+    border-top-start-radius: 0 !important;
+    border-top-end-radius: 0 !important;
   }
   .rounded-xl-end {
-    border-top-right-radius: 0.25rem !important;
-    border-bottom-right-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
   }
   .rounded-xl-end-lg {
-    border-top-right-radius: 1.25rem !important;
-    border-bottom-right-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
   }
   .rounded-xl-end-0 {
-    border-top-right-radius: 0 !important;
-    border-bottom-right-radius: 0 !important;
+    border-top-end-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
   }
   .rounded-xl-bottom {
-    border-bottom-right-radius: 0.25rem !important;
-    border-bottom-left-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
   }
   .rounded-xl-bottom-lg {
-    border-bottom-right-radius: 1.25rem !important;
-    border-bottom-left-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
   }
   .rounded-xl-bottom-0 {
-    border-bottom-right-radius: 0 !important;
-    border-bottom-left-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
   }
   .rounded-xl-start {
-    border-bottom-left-radius: 0.25rem !important;
-    border-top-left-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
   }
   .rounded-xl-start-lg {
-    border-bottom-left-radius: 1.25rem !important;
-    border-top-left-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
   }
   .rounded-xl-start-0 {
-    border-bottom-left-radius: 0 !important;
-    border-top-left-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
+    border-top-start-radius: 0 !important;
   }
   .opacity-xl-0 {
     opacity: 0 !important;
@@ -17050,25 +17050,25 @@ fieldset:disabled .btn {
     font-size: 1.2rem !important;
   }
   .fs-xxl-2 {
-    font-size: calc(1.269rem + 0.228vw) !important;
+    font-size: 1.44rem !important;
   }
   .fs-xxl-3 {
-    font-size: calc(1.2978rem + 0.5736vw) !important;
+    font-size: 1.728rem !important;
   }
   .fs-xxl-4 {
-    font-size: calc(1.33236rem + 0.98832vw) !important;
+    font-size: 2.0736rem !important;
   }
   .fs-xxl-5 {
-    font-size: calc(1.37383rem + 1.48598vw) !important;
+    font-size: 2.48832rem !important;
   }
   .fs-xxl-6 {
-    font-size: calc(1.4236rem + 2.08318vw) !important;
+    font-size: 2.98598rem !important;
   }
   .fs-xxl-7 {
-    font-size: calc(1.48332rem + 2.79982vw) !important;
+    font-size: 3.58318rem !important;
   }
   .fs-xxl-8 {
-    font-size: calc(1.55498rem + 3.65978vw) !important;
+    font-size: 4.29982rem !important;
   }
   .text-xxl-start {
     text-align: left !important;
@@ -17080,52 +17080,52 @@ fieldset:disabled .btn {
     text-align: center !important;
   }
   .rounded-xxl-top {
-    border-top-left-radius: 0.25rem !important;
-    border-top-right-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
   }
   .rounded-xxl-top-lg {
-    border-top-left-radius: 1.25rem !important;
-    border-top-right-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
   }
   .rounded-xxl-top-0 {
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
+    border-top-start-radius: 0 !important;
+    border-top-end-radius: 0 !important;
   }
   .rounded-xxl-end {
-    border-top-right-radius: 0.25rem !important;
-    border-bottom-right-radius: 0.25rem !important;
+    border-top-end-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
   }
   .rounded-xxl-end-lg {
-    border-top-right-radius: 1.25rem !important;
-    border-bottom-right-radius: 1.25rem !important;
+    border-top-end-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
   }
   .rounded-xxl-end-0 {
-    border-top-right-radius: 0 !important;
-    border-bottom-right-radius: 0 !important;
+    border-top-end-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
   }
   .rounded-xxl-bottom {
-    border-bottom-right-radius: 0.25rem !important;
-    border-bottom-left-radius: 0.25rem !important;
+    border-bottom-end-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
   }
   .rounded-xxl-bottom-lg {
-    border-bottom-right-radius: 1.25rem !important;
-    border-bottom-left-radius: 1.25rem !important;
+    border-bottom-end-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
   }
   .rounded-xxl-bottom-0 {
-    border-bottom-right-radius: 0 !important;
-    border-bottom-left-radius: 0 !important;
+    border-bottom-end-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
   }
   .rounded-xxl-start {
-    border-bottom-left-radius: 0.25rem !important;
-    border-top-left-radius: 0.25rem !important;
+    border-bottom-start-radius: 0.25rem !important;
+    border-top-start-radius: 0.25rem !important;
   }
   .rounded-xxl-start-lg {
-    border-bottom-left-radius: 1.25rem !important;
-    border-top-left-radius: 1.25rem !important;
+    border-bottom-start-radius: 1.25rem !important;
+    border-top-start-radius: 1.25rem !important;
   }
   .rounded-xxl-start-0 {
-    border-bottom-left-radius: 0 !important;
-    border-top-left-radius: 0 !important;
+    border-bottom-start-radius: 0 !important;
+    border-top-start-radius: 0 !important;
   }
   .opacity-xxl-0 {
     opacity: 0 !important;
@@ -17255,93 +17255,6 @@ fieldset:disabled .btn {
   }
   .rounded-xxl-0 {
     border-radius: 0 !important;
-  }
-}
-
-@media (min-width: 1200px) {
-  .fs-2 {
-    font-size: 1.44rem !important;
-  }
-  .fs-3 {
-    font-size: 1.728rem !important;
-  }
-  .fs-4 {
-    font-size: 2.0736rem !important;
-  }
-  .fs-5 {
-    font-size: 2.48832rem !important;
-  }
-  .fs-6 {
-    font-size: 2.98598rem !important;
-  }
-  .fs-7 {
-    font-size: 3.58318rem !important;
-  }
-  .fs-8 {
-    font-size: 4.29982rem !important;
-  }
-  .fs-sm-2 {
-    font-size: 1.44rem !important;
-  }
-  .fs-sm-3 {
-    font-size: 1.728rem !important;
-  }
-  .fs-sm-4 {
-    font-size: 2.0736rem !important;
-  }
-  .fs-sm-5 {
-    font-size: 2.48832rem !important;
-  }
-  .fs-sm-6 {
-    font-size: 2.98598rem !important;
-  }
-  .fs-sm-7 {
-    font-size: 3.58318rem !important;
-  }
-  .fs-sm-8 {
-    font-size: 4.29982rem !important;
-  }
-  .fs-md-2 {
-    font-size: 1.44rem !important;
-  }
-  .fs-md-3 {
-    font-size: 1.728rem !important;
-  }
-  .fs-md-4 {
-    font-size: 2.0736rem !important;
-  }
-  .fs-md-5 {
-    font-size: 2.48832rem !important;
-  }
-  .fs-md-6 {
-    font-size: 2.98598rem !important;
-  }
-  .fs-md-7 {
-    font-size: 3.58318rem !important;
-  }
-  .fs-md-8 {
-    font-size: 4.29982rem !important;
-  }
-  .fs-lg-2 {
-    font-size: 1.44rem !important;
-  }
-  .fs-lg-3 {
-    font-size: 1.728rem !important;
-  }
-  .fs-lg-4 {
-    font-size: 2.0736rem !important;
-  }
-  .fs-lg-5 {
-    font-size: 2.48832rem !important;
-  }
-  .fs-lg-6 {
-    font-size: 2.98598rem !important;
-  }
-  .fs-lg-7 {
-    font-size: 3.58318rem !important;
-  }
-  .fs-lg-8 {
-    font-size: 4.29982rem !important;
   }
 }
 
