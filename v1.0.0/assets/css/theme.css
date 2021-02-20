@@ -7566,8 +7566,8 @@ fieldset:disabled .btn {
 }
 
 .shadow-sm {
-  -webkit-box-shadow: 0 1.5625rem 2.8125rem rgba(83, 172, 248, 0.15) !important;
-  box-shadow: 0 1.5625rem 2.8125rem rgba(83, 172, 248, 0.15) !important;
+  -webkit-box-shadow: 0 1.5625rem 2.8125rem rgba(0, 87, 255, 0.15) !important;
+  box-shadow: 0 1.5625rem 2.8125rem rgba(0, 87, 255, 0.15) !important;
 }
 
 .shadow-lg {
@@ -17898,8 +17898,8 @@ label {
   width: 2.5rem;
   border: 0;
   font-size: 0.875rem;
-  -webkit-box-shadow: 0 1.5625rem 2.8125rem rgba(83, 172, 248, 0.15);
-  box-shadow: 0 1.5625rem 2.8125rem rgba(83, 172, 248, 0.15);
+  -webkit-box-shadow: 0 1.5625rem 2.8125rem rgba(0, 87, 255, 0.15);
+  box-shadow: 0 1.5625rem 2.8125rem rgba(0, 87, 255, 0.15);
 }
 
 .icon-item:hover, .icon-item:focus {
